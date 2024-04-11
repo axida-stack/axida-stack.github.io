@@ -24,19 +24,19 @@ author:
   avatar           : "axida_shan.png"
   name             : "Axida Shan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am an associate professor with BTTC."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Baotou Teachers' College"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "axida@bttc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=jkdALLYAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-6941-0177"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Axida-Shan"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
