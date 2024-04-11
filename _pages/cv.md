@@ -17,20 +17,18 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2022 - present: Associate professor
+  * Baotou Teachers' Collge
+  * Duties includes: Teaching courses related to computer science and technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2012 - December 2021: Lecturer
+  * Baotou Teachers' College
+  * Duties included: Teaching courses related to computer science and technology
+
+* March 2010 - July 2011: System Engineer
+  * Almas Inc. Tokyo Japan
+  * Duties included: Software development
   
 Skills
 ======
