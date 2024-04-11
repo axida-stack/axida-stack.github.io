@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * January 2022 - present: Associate professor
-  * Baotou Teachers' Collge
+  * Baotou Teachers' College
   * Duties includes: Teaching courses related to computer science and technology
 
 
