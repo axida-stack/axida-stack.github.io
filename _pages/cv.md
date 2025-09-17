@@ -38,10 +38,10 @@ Skills
   * Java
   * Python
 * Languages
-  * Mongol
-  * Chinese
-  * Japanese
-  * English
+  * Mongol (mother tongue)
+  * Chinese (native)
+  * Japanese (fluent)
+  * English (intermediate)
 
 
 Publications
