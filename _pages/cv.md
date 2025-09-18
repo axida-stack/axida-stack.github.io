@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Control Science and Engineering, Xi'an University of Technology, Xi'an, China, in 2023.
+* M.S. in Information Network Systems, The University of Electro-Communications, Tokyo, Japan, in 2010.
+* B.S. in Computer Networking, Inner Mongolia University, Hohhot, China, in 2004.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2022 - present: Associate professor
+  * Baotou Teachers' College
+  * Duties includes: Teaching courses related to computer science and technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2012 - December 2021: Lecturer
+  * Baotou Teachers' College
+  * Duties included: Teaching courses related to computer science and technology
+
+* March 2010 - July 2011: System Engineer
+  * Almas Inc. Tokyo Japan
+  * Duties included: Software development
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C
+  * C++
+  * Java
+  * Python
+* Languages
+  * Mongol (mother tongue)
+  * Chinese (native)
+  * Japanese (fluent)
+  * English (intermediate)
+
 
 Publications
 ======
@@ -47,7 +50,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -59,6 +62,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!-- 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
